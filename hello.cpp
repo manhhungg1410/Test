@@ -3,6 +3,5 @@
 using namespace std;
 
 int main(){
-	cout<<"Hello world demo concak
-";
+	cout<<"Hello world demo concak";
 }
